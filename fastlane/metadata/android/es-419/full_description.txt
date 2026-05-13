@@ -1,0 +1,1 @@
+Guía y planificador académico para estudiantes de Ingeniería UCV. Gestiona tu Kardex, horarios y control de notas de forma local y segura.
